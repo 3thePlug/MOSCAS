@@ -1,6 +1,6 @@
-EL JUEGO DE LA MOSCA
+## EL JUEGO DE LA MOSCA
 
-@autor -> Jorge Gallego Soto 
+- `Autor`: Jorge Gallego Soto 
 
 El juego consiste en un tablero en el que algunas casillas contienen moscas. El objetivo es encontrar estas moscas y aplastarlas, pero cuidado con destapar las casillas adyacentes, saldrán revoloteando a otra posición!
 ## Getting Started
