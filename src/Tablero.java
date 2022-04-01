@@ -11,6 +11,9 @@ public class Tablero {
             colocarMosca();
         }
     }
+    public Tablero() {
+        this(4);
+    }
     private void colocarMosca() {
         int x, y;
         do {
