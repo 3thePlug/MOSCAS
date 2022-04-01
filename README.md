@@ -1,3 +1,8 @@
+EL JUEGO DE LA MOSCA
+
+@autor -> Jorge Gallego Soto 
+
+El juego consiste en un tablero en el que algunas casillas contienen moscas. El objetivo es encontrar estas moscas y aplastarlas, pero cuidado con destapar las casillas adyacentes, saldrán revoloteando a otra posición!
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
